@@ -11,9 +11,9 @@ Data Description
 * 驗證和訓練資料集
   切分為6650筆和350筆
 # 資料處理
-  1.利用nltk中的stop words來去除摘要中不太具有意義的高頻單字，以節省存儲空間和提高搜索效率
-  2.將論文的種類做onehot編碼
-  3.用sciBERT中的tokenizer來將摘要中的文字進行斷字以及編碼
+  1. 利用nltk中的stop words來去除摘要中不太具有意義的高頻單字，以節省存儲空間和提高搜索效率
+  2. 將論文的種類做onehot編碼
+  3. 用sciBERT中的tokenizer來將摘要中的文字進行斷字以及編碼
 # 模型建立
 環境以kearas_bert為主，以sciBERT為預訓練模型(https://github.com/allenai/scibert)
 
