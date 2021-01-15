@@ -21,3 +21,4 @@ Data Description
 1. 取第 4 和 12 層 Transformer Encoder 的 output,使用 globalaveragepooling1d 做展開
 2. 將 globalaveragepooling1d 的 output 使用 Maximum 的方式做合併
 3. 輸出至 sigmoid function 前做 dropout,dropout rate 為 0.1
+# 成果
