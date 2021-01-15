@@ -22,3 +22,7 @@ Data Description
 2. 將 globalaveragepooling1d 的 output 使用 Maximum 的方式做合併
 3. 輸出至 sigmoid function 前做 dropout,dropout rate 為 0.1
 # 成果
+在vaildation data上得到
+precision : 0.43114
+recall : 0.94323
+FS : 0.59178
