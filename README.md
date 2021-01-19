@@ -26,3 +26,6 @@ Data Description
 precision : 0.43114
 recall : 0.94323
 FS : 0.59178
+# 參考文獻
+1. I. Beltagy, K. Lo, and A. Cohan. SciBERT: A pretrained language model for scientific text. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Lan­guage Processing (EMNLP­-IJCNLP), pages 3615–3620, Hong Kong, China, Nov. 2019. Association for Computational Linguistics.
+2. https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html
